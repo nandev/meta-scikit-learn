@@ -4,7 +4,7 @@ HOMEPAGE = "http://scikit-learn.org"
 LICENSE = "BSD-3-Clause"
 LIC_FILES_CHKSUM = "file://COPYING;md5=c8d7e027b3e67a2b1fe7fe85ebeb17d7"
 
-SRC_URI = "git://github.com/scikit-learn/scikit-learn.git;branch=0.24.X \
+SRC_URI = "git://github.com/scikit-learn/scikit-learn.git;branch=0.23.2 \
            file://0001-hack-around-numpy-get_include-to-force-looking-in-ta.patch \
            "
 SRCREV = "c6512929fbee7232949c0f18cfb28cf3b5959df9"
