@@ -2,7 +2,7 @@ SUMMARY = "A set of python modules for machine learning and data mining"
 HOMEPAGE = "http://scikit-learn.org"
 
 LICENSE = "BSD-3-Clause"
-LIC_FILES_CHKSUM = "file://COPYING;md5=c8d7e027b3e67a2b1fe7fe85ebeb17d7"
+LIC_FILES_CHKSUM = "file://COPYING;md5=cb51b2a869aab75da467771807839f18"
 
 SRC_URI = "git://github.com/scikit-learn/scikit-learn.git;branch=0.23.X"
 SRCREV = "0fb307bf39bbdacd6ed713c00724f8f871d60370"
