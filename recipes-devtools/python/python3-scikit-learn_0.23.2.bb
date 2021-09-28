@@ -4,7 +4,9 @@ HOMEPAGE = "http://scikit-learn.org"
 LICENSE = "BSD-3-Clause"
 LIC_FILES_CHKSUM = "file://COPYING;md5=cb51b2a869aab75da467771807839f18"
 
-SRC_URI = "git://github.com/scikit-learn/scikit-learn.git;branch=0.23.X"
+SRC_URI = "git://github.com/scikit-learn/scikit-learn.git;branch=0.23.X\
+           file://0002-work-around-pre-build-helper.patch \
+		   "
 SRCREV = "0fb307bf39bbdacd6ed713c00724f8f871d60370"
 S = "${WORKDIR}/git"
 
